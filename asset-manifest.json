@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/car_rent/static/css/main.0cab94d1.css",
+    "main.js": "/car_rent/static/js/main.243fd8f5.js",
+    "static/media/Car rental (2).gif": "/car_rent/static/media/Car rental (2).a3866f95ac9b030f1ef7.gif",
+    "static/media/silver-metallic-color-sport-sedan-road-removebg-preview.png": "/car_rent/static/media/silver-metallic-color-sport-sedan-road-removebg-preview.a3e59cad1225fec814a0.png",
+    "static/media/red-luxury-sedan-road-removebg-preview.png": "/car_rent/static/media/red-luxury-sedan-road-removebg-preview.def523f4c6ae1ca494f5.png",
+    "static/media/Porsche-Logo-500x281.png": "/car_rent/static/media/Porsche-Logo-500x281.62b900a604ac72f6b2a9.png",
+    "static/media/64401-removebg-preview.png": "/car_rent/static/media/64401-removebg-preview.01dc4f2cc669bcc688ad.png",
+    "static/media/Chevrolet-logo-500x281.png": "/car_rent/static/media/Chevrolet-logo-500x281.978ec72d32c25ee35bd6.png",
+    "static/media/64384-removebg-preview.png": "/car_rent/static/media/64384-removebg-preview.46662671c3ec3df0ef83.png",
+    "static/media/64403-removebg-preview.png": "/car_rent/static/media/64403-removebg-preview.f6ebeef127ab21dfcc2b.png",
+    "static/media/67413-removebg-preview.png": "/car_rent/static/media/67413-removebg-preview.ec88bb8371ea6178b0f6.png",
+    "static/media/Mercedes-Benz-Logo-500x311.png": "/car_rent/static/media/Mercedes-Benz-Logo-500x311.c19619b109f4a8ad96c3.png",
+    "static/media/Honda-logo-500x281.png": "/car_rent/static/media/Honda-logo-500x281.0259f71b64df326a3677.png",
+    "static/media/BMW-Logo-500x281.png": "/car_rent/static/media/BMW-Logo-500x281.52d6ccbad7949efeee2f.png",
+    "static/media/Ford-Logo-500x281.png": "/car_rent/static/media/Ford-Logo-500x281.8b665cf8500fd413b8ab.png",
+    "static/media/Volkswagen-logo-500x281.png": "/car_rent/static/media/Volkswagen-logo-500x281.cdf8ba37d0a9c8d2364e.png",
+    "static/media/WhatsApp_Image_2023-08-29_at_2.43.54_PM-removebg-preview.png": "/car_rent/static/media/WhatsApp_Image_2023-08-29_at_2.43.54_PM-removebg-preview.27d964a5dea3cfd0af49.png",
+    "static/media/Tesla-logo-500x281.png": "/car_rent/static/media/Tesla-logo-500x281.5b582b884e05acc80925.png",
+    "static/media/Ferrari-logo-500x333.png": "/car_rent/static/media/Ferrari-logo-500x333.f9e46ac0fb135a72bc94.png",
+    "index.html": "/car_rent/index.html",
+    "main.0cab94d1.css.map": "/car_rent/static/css/main.0cab94d1.css.map",
+    "main.243fd8f5.js.map": "/car_rent/static/js/main.243fd8f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cab94d1.css",
+    "static/js/main.243fd8f5.js"
+  ]
+}
